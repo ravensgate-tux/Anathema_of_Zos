@@ -12,12 +12,6 @@
 </div>
 
 ---
-
-
----
-
-
----
 <div align="center">
  <img src="Anathema_of_Zos1.png" width="400">
 </div>
