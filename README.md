@@ -1,0 +1,33 @@
+# オースティン・オスマン・スペアの『ゾスの呪詛――偽善者たちへの説教』翻訳Zine
+
+このZineは、オースティン・オスマン・スペアの自動書紀による『ゾスの呪詛――偽善者たちへの説教』の全文を、翻訳したものです。
+
+---
+<div align="center">
+ <img src="Anathema_of_Zos1.png" width="300">
+</div>
+
+---
+
+### 🇯🇵 日本語
+
+
+👉 [クリックして読む](Anathema_of_Zos_J.md)
+
+---
+
+### 🇬🇧 原文
+
+👉 [Amazon.co.jp](https://www.amazon.co.jp/Anathema-Of-Zos/dp/B0013KXHXSd)
+
+---
+
+## 🔖 免責・著作権に関する注意
+
+本Zineは研究・学術・非営利目的で公開されており、出典を明記したうえで原文の部分引用・翻訳を行っています。
+
+----
+
+© 2025 知られざる呪術師（Le Sorcier Inconnu）
+本ドキュメントは Creative Commons BY-SA 4.0 に基づき公開されています。
+
