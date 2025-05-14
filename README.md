@@ -18,7 +18,7 @@
 
 ### 🇬🇧 原文
 
-👉 [Amazon.co.jp](https://www.amazon.co.jp/Anathema-Of-Zos/dp/B0013KXHXSd)
+👉 [クリックして読む](Anathema_of_Zos_E.md)
 
 ---
 
