@@ -2,6 +2,21 @@
 
 このZineは、オースティン・オスマン・スペアの自動書紀文書『ゾスの呪詛――偽善者たちへの説教』の全文を、翻訳したものです。
 
+<div align="right">
+
+**by 知られざる呪術師（*Le Sorcier Inconnu*）**  
+
+ディスコーディアン暦3191年 POPの祝日 第23金曜日  
+――欲望のアルファベット🔥を讃える日  
+
+</div>
+
+---
+
+
+---
+
+
 ---
 <div align="center">
  <img src="Anathema_of_Zos1.png" width="400">
