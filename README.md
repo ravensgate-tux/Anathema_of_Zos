@@ -55,7 +55,7 @@
 本書は1907年に刊行されたオースティン・オスマン・スペアによる初期の画集であり、彼の特異な美学と魔術的想像力を色濃く映し出す図版が多数収録されている。スペア自身による文章は含まれていないが、詩人であり出版社「オリオン・プレス」の主宰でもあったジェームズ・ガスリー（James Guthrie）による序文が添えられており、当時の芸術的・社会的背景のもとにスペアの作品を位置づけている。
 この序文はスペアの絵画が持つサタイア（風刺）性や想像力、そして「予測不能な意図」に対して独自の評価を与えており、のちの『快楽の書』や『ゾスの呪詛』へと展開する思想の原型を視覚芸術の面から捉える一助となるだろう。
 
-👉[『快楽の書（翻訳）』](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
+👉[『快楽の書（翻訳）』](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) <br>
 👉[『ゾスの呪詛（翻訳）』](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 
 ---
