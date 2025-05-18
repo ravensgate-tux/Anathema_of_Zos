@@ -49,6 +49,8 @@
 
 🗃 関連資料
 
+👉[『快楽の書（翻訳）』](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) <br>
+
 👉[『半獣神たちの書（英文）』](AustinOsmanSpare-ABookOfSatyrs-ocr.pdf)
 
 📚『半獣神たちの書（A Book of Satyrs）』について<br>
@@ -59,8 +61,6 @@
 
 📚『地上の地獄（Earth Inferno, 1905）』について<br>
 『地上の地獄』は、オースティン・オスマン・スペアが20歳で自費出版した最初の著作であり、詩と図像が交錯する幻想的なアートブックである。ダンテ『神曲』に着想を得つつも、内容はスペア独自の魔術思想に満ちており、道徳や宗教への挑発と内的探求が、ページごとに濃密に展開され、視覚と言葉を通じた魔術的実践の先駆的表現といえる。
-
-👉[『快楽の書（翻訳）』](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) <br>
 
 ---
 
