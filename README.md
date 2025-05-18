@@ -57,8 +57,6 @@
 
 👉[快楽の書（翻訳）』](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) <br>
 
-👉[ゾスの呪詛（翻訳）』](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
-
 ---
 
 ### 🔖 免責・著作権に関する注意
