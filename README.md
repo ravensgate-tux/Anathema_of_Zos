@@ -49,7 +49,7 @@
 
 🗃 関連資料
 
-👉[『半獣神の書（英文）』](AustinOsmanSpare-ABookOfSatyrs-ocr.pdf)
+👉[『半獣神たちの書（英文）』](AustinOsmanSpare-ABookOfSatyrs-ocr.pdf)
 
 ---
 
