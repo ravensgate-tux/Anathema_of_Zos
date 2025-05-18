@@ -49,7 +49,7 @@
 
 🗃 関連資料
 
-👉[『快楽の書（翻訳）』を読む](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) <br>
+👉[『快楽の書（翻訳）』を読む](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) 
 <br>
 <br>
 👉[『半獣神たちの書（英文）』](AustinOsmanSpare-ABookOfSatyrs-ocr.pdf)
