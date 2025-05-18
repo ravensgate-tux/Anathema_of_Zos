@@ -56,6 +56,7 @@
 この序文はスペアの絵画が持つサタイア（風刺）性や想像力、そして「予測不能な意図」に対して独自の評価を与えており、のちの『快楽の書』や『ゾスの呪詛』へと展開する思想の原型を視覚芸術の面から捉える一助となるだろう。
 
 👉[『快楽の書（翻訳）』](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) <br>
+
 👉[『ゾスの呪詛（翻訳）』](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 
 ---
