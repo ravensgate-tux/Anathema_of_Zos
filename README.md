@@ -49,10 +49,13 @@
 
 🗃 関連資料
 
-👉👉👉[『快楽の書（翻訳）』を読む](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md) 
+同じくオースティン・オスマン・スペアによる晩年の自動書記による文『ゾスの呪詛――偽善者たちへの説教 (Anathema of Zos)』の翻訳Zineも公開中。
 <br>
 <br>
-👉[『半獣神たちの書（🇬🇧英文）』](AustinOsmanSpare-ABookOfSatyrs-ocr.pdf)　🇯🇵[テキスト部分の要約](satyrs_summary.md)<br><br>
+👉👉👉 [『ゾスの呪詛――偽善者たちへの説教 (Anathema of Zos)』を読む](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
+<br>
+<br>
+👉👉👉 [『半獣人たちの書(A book of Satyes)』を読む](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)<br>
 <br>
 📚『半獣神たちの書（A Book of Satyrs）』について<br>
 本書は1907年に刊行されたオースティン・オスマン・スペアによる初期の画集であり、彼の特異な美学と魔術的想像力を色濃く映し出す図版が多数収録されている。**スペア自身による文章はもともと含まれていない**が、詩人であり私家版出版社「ペア・ツリー・プレス（Pear Tree Press）」の主宰でもあったジェームズ・ガスリー（James Guthrie）による序文が添えられており、当時の芸術的・社会的背景のもとにスペアの作品を位置づけている。
