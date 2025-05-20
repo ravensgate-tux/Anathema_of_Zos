@@ -52,8 +52,7 @@
 同じくオースティン・オスマン・スペアによる晩年の自動書記による文『ゾスの呪詛――偽善者たちへの説教 (Anathema of Zos)』の翻訳Zineも公開中。
 <br>
 <br>
-👉👉👉 [『ゾスの呪詛――偽善者たちへの説教 (Anathema of Zos)』を読む](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
-<br>
+👉👉👉 [『快楽の書』(The Book of Pleasure)』を読む](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)<br>
 <br>
 👉👉👉 [『半獣人たちの書(A book of Satyes)』を読む](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)<br>
 <br>
