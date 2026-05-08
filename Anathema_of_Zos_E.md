@@ -1,4 +1,4 @@
-**Anathema of　Zos The Sermon to the Hypocrites**
+**Anathema of Zos The Sermon to the Hypocrites**
 
 An Automatic Writing By Austin Osman Spare
 
